@@ -10,14 +10,14 @@
 ---
 
 ## 2. Архитектура проекта
-Assets/
-├── Calculator/
-│   ├── Domain/                  → Calculator.Domain.asmdef
-│   ├── Application/             → Calculator.Application.asmdef
-│   ├── Infrastructure/          → Calculator.Infrastructure.asmdef
-│   └── Presentation/            → Calculator.Presentation.asmdef
-└── UI/
-    └── Dialog/                  → UI.Dialog.asmdef
+    Assets/
+    ├── Calculator/
+    │   ├── Domain/                  → Calculator.Domain.asmdef
+    │   ├── Application/             → Calculator.Application.asmdef
+    │   ├── Infrastructure/          → Calculator.Infrastructure.asmdef
+    │   └── Presentation/            → Calculator.Presentation.asmdef
+    └── UI/
+        └── Dialog/                  → UI.Dialog.asmdef
 
 **Слои:**
 - **Domain** — бизнес-правила, парсер, интерфейсы репозитория.
