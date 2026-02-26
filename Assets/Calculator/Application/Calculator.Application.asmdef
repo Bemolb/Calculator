@@ -1,0 +1,16 @@
+{
+    "name": "Calculator.Application",
+    "rootNamespace": "Calculator.Application",
+    "references": [
+        "GUID:6ebe1997a1a0d2c4284606e8d13ec86c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}
